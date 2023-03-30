@@ -1,4 +1,4 @@
-package JavaOrgExample.One;
+package JavaOrgExample.First;
 
 /**
  * Box box1 = new Box();

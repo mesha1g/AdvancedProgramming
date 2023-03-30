@@ -1,8 +1,8 @@
-package JavaOrgExample.One.Two.Collection;
+package JavaOrgExample.Two.Collection;
 
 
 
-import JavaOrgExample.One.Gender;
+import JavaOrgExample.First.Gender;
 
 import java.io.File;
 import java.io.IOException;

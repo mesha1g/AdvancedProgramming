@@ -1,9 +1,9 @@
-package JavaOrgExample.One.Two.OOP.Demo;
+package JavaOrgExample.Two.OOP.Demo;
 
 
-import JavaOrgExample.One.Two.OOP.Esspresso;
-import JavaOrgExample.One.Two.OOP.MilkDecorator;
-import JavaOrgExample.One.Two.OOP.Tea;
+import JavaOrgExample.Two.OOP.Esspresso;
+import JavaOrgExample.Two.OOP.MilkDecorator;
+import JavaOrgExample.Two.OOP.Tea;
 
 public class BeverageDemo {
     public static void main(String[] args) {

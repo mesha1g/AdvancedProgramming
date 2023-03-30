@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Two.IO;
+package JavaOrgExample.Two.IO;
 
 import java.io.File;
 import java.io.IOException;

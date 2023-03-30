@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Two;
+package JavaOrgExample.Two;
 
 public class Demo {
 }

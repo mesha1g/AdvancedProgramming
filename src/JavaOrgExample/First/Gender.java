@@ -1,4 +1,4 @@
-package JavaOrgExample.One;
+package JavaOrgExample.First;
 
 public enum Gender {
 

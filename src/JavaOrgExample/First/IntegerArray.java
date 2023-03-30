@@ -1,4 +1,4 @@
-package JavaOrgExample.One;
+package JavaOrgExample.First;
 
 import java.util.Arrays;
 import java.util.Iterator;

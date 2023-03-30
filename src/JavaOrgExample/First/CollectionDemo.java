@@ -1,4 +1,4 @@
-package JavaOrgExample.One;
+package JavaOrgExample.First;
 
 public class CollectionDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Two.OOP;
+package JavaOrgExample.Two.OOP;
 
 
 public class BosnianCaffe extends Beverage{

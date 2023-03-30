@@ -1,7 +1,7 @@
-package JavaOrgExample.One.Two.OOP.Demo;
+package JavaOrgExample.Two.OOP.Demo;
 
 
-import JavaOrgExample.One.Two.OOP.Beverage;
+import JavaOrgExample.Two.OOP.Beverage;
 
 public class IrishDecorator extends Beverage {
 

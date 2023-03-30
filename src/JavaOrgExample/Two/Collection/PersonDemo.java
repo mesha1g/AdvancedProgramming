@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Two.Collection;
+package JavaOrgExample.Two.Collection;
 
 import java.util.List;
 

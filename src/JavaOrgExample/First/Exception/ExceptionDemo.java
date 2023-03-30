@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Exception;
+package JavaOrgExample.First.Exception;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;

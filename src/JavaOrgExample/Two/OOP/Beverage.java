@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Two.OOP;
+package JavaOrgExample.Two.OOP;
 
 public abstract class Beverage implements Drinkable{
     private final String name;

@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Two.OOP;
+package JavaOrgExample.Two.OOP;
 
 public interface Drinkable {
     void drink();

@@ -1,4 +1,4 @@
-package JavaOrgExample.One.Collection;
+package JavaOrgExample.First.Collection;
 
 import java.util.*;
 

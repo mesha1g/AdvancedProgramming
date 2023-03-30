@@ -1,4 +1,4 @@
-package JavaOrgExample.One.File;
+package JavaOrgExample.First.File;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

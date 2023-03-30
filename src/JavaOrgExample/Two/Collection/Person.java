@@ -1,6 +1,6 @@
-package JavaOrgExample.One.Two.Collection;
+package JavaOrgExample.Two.Collection;
 
-import JavaOrgExample.One.Gender;
+import JavaOrgExample.First.Gender;
 
 import java.time.LocalDate;
 import java.time.Period;

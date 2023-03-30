@@ -1,0 +1,6 @@
+Dan je bilo sjajno i divno dok nismo dosli na Advanced Java Programming.
+1.100.234,56
+8.5
+32,767
+3.14159
+1,000,000.1
